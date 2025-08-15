@@ -8,7 +8,7 @@ MUSIC_FOLDER = "music_files"
 ALBUM_ART = "./assests/album_art.jpg"  # Put your image in same folder
 os.makedirs(MUSIC_FOLDER, exist_ok=True)
 
-# --------------- PAGE CONFIG ---------------
+# --------------- PAGE CONFIG -------------
 st.set_page_config(page_title=APP_NAME, page_icon="🎵", layout="centered")
 st.markdown(
     f"<h1 style='text-align: center; color: #ff4b4b;'>{APP_NAME}</h1>",

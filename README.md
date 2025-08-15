@@ -56,4 +56,4 @@ Connect your repo and deploy 🎉
 
 Rakhi Rawat
 📧 rakhirawat064@gmail.com
-💻 GitHub Profile
+💻 github/RakhiRawat064

@@ -1,4 +1,4 @@
-🎵 Harmonix — Streamlit Music Player
+🎵 Harmonix — Music Player Application
 
 Harmonix is a sleek and interactive web-based music player built with Python and Streamlit.
 Play your favorite tunes directly from your browser — no installation required!
